@@ -18,4 +18,4 @@
   - [Twitter](https://twitter.com/ManuelS24832521)
   - [Dev.to](https://dev.to/mefardales)
 
-
+![Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=mefardales)
