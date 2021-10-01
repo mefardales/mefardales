@@ -27,7 +27,8 @@
 
 <p align="center"> 
   <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" align="left"/>
-  Passionate to the technologies focused in branch of Business Intelligence and Data Science 
+  Passionate to the technologies focused in branch of Business Intelligence 📊  | Data Science 💻
+  
 </p>
 
 ---
