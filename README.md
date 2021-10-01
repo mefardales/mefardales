@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Manuel Suárez
   Here are some insights about me:
 - ✅ I have some knowledge on...
-  - Python
-  - R
+  - Python/R
   - Supervised and Unsupervised learning 
   - TensorFlow and Keras 
   - spaCy
@@ -11,6 +10,7 @@
   - Tableau
   - MySQL
   - MongoDB
+  - Docker 
   - Unit Testing and A/B Testing
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/manuel-su%C3%A1rez-021)
