@@ -3,6 +3,7 @@
 - ✅ I have some knowledge on...
   - Python/R
   - Supervised and Unsupervised learning 
+  - Time Series Analysis
   - TensorFlow and Keras 
   - spaCy
   - Web Scraping (Selenium and bs4 ) 
