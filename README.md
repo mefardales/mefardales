@@ -37,7 +37,7 @@
 
 
 - ✅  My Stack ...
-  <img src="https://github.com/mefardales/mefardales/blob/main/pngwing.com%20(1).png" align="right" width=300>
+  <img src="https://github.com/mefardales/mefardales/blob/main/pngwing.com%20(2).png" align="right" width=350>
   - Python/R
   - Supervised and Unsupervised learning 
   - Time Series Analysis
