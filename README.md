@@ -1,6 +1,41 @@
-### Hi there 👋 I'm Manuel Suárez
-  Here are some insights about me:
-- ✅  I have some knowledge on...
+<!-- Social Section -->
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+  <a href= "https://github.com/mefardales/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/manuel-su%C3%A1rez-021/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/ManuelS24832521">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>
+  <a href= "https://dev.to/mefardales">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+  </a>
+  
+</p>
+
+---
+
+
+### Hi there 👋  I'm Manuel Suárez
+<p>B.S. Computer Science</p>
+
+
+<p align="center"> 
+  <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" align="left"/>
+  Passionate to the technologies focused in branch of Business Intelligence and Data Science 
+</p>
+
+---
+
+---
+
+
+- ✅  My Stack ...
   - Python/R
   - Supervised and Unsupervised learning 
   - Time Series Analysis
@@ -13,9 +48,11 @@
   - MongoDB
   - Docker 
   - Unit Testing and A/B Testing
-- 📫  How to reach me: 
-  - [Linkedin](https://www.linkedin.com/in/manuel-su%C3%A1rez-021)
-  - [Twitter](https://twitter.com/ManuelS24832521)
-  - [Dev.to](https://dev.to/mefardales)
+  
+ ---
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mefardales&theme=dark&hide_border=true" width = 400>
+</p>
 
-![Manuel's Github Stats](https://github-readme-stats.vercel.app/api?username=mefardales)
+
