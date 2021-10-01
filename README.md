@@ -22,7 +22,7 @@
 
 
 ### Hi there 👋  I'm Manuel Suárez
-<p>B.S. Computer Science</p>
+<p> 🔶 B.S. Computer Science</p>
 
 
 <p align="center"> 
