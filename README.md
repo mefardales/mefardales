@@ -34,13 +34,17 @@
 
 - ✅  My Stack ... 
   - <img src="https://github.com/mefardales/mefardales/blob/main/pngwing.com%20(2).png" align="right" width=330>  
-  - Python/R
+  - Python / R / Scala
   - Supervised and Unsupervised learning 
   - Time Series Analysis
   - TensorFlow and Keras 
+  - XGBoost
   - spaCy
   - Web Scraping (Selenium and bs4 ) 
   - API REST with Fast API and Flask
+  - Mlflow
+  - Apache Airflow / PySpark
+  - AWS / GCP 
   - Tableau and Google Data Studio
   - MySQL
   - MongoDB
