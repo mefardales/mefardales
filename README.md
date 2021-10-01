@@ -7,7 +7,7 @@
   - spaCy
   - Web Scraping (Selenium and bs4 ) 
   - API REST with Fast API and Flask
-  - Tableau
+  - Tableau and Google Data Studio
   - MySQL
   - MongoDB
   - Docker 
