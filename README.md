@@ -20,18 +20,14 @@
 
 ---
 
-
-### Hi there 👋  I'm Manuel Suárez
-<p> 🔶 B.S. Computer Science</p>
-
-
-<p align="center"> 
-  <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" align="left"/>
-  Passionate to the technologies focused in branch of Business Intelligence 📊  | Data Science 💻
+<p align="left"> 
+  <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" align="left" width=95/>
   
 </p>
 
----
+### Hi there 👋  I'm Manuel Suárez 
+<p align="left"> 🔶 B.S. Computer Science</p>
+<i align="left"> Passionate to the technologies focused in branch of Business Intelligence 📊   | Data Science 💻 </i>
 
 ---
 
