@@ -3,12 +3,15 @@
 - ✅ I have some knowledge on...
   - Python
   - R
-  - Tensor Flow
-  - Keras 
-  - Web Scraping
+  - Supervised and Unsupervised learning 
+  - TensorFlow and Keras 
+  - spaCy
+  - Web Scraping (Selenium and bs4 ) 
+  - API REST with Fast API and Flask
   - Tableau
   - MySQL
   - MongoDB
+  - Unit Testing and A/B Testing
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/manuel-su%C3%A1rez-021)
   - [Twitter](https://twitter.com/ManuelS24832521)
