@@ -33,22 +33,22 @@
 
 
 - ✅  My Stack ... 
-  - Python / R / Scala
+  - Python / R 
   - Supervised and Unsupervised learning 
   - Time Series Analysis
-  - TensorFlow and Keras 
+  <!--- TensorFlow and Keras -->
   - XGBoost
   - spaCy
   - Web Scraping (Selenium and bs4 ) 
   - API REST with Fast API and Flask
-  - Mlflow
-  - Apache Airflow / PySpark
-  - AWS / GCP 
-  - Tableau and Google Data Studio
+  <!--  - Mlflow -->
+  <!--  - Apache Airflow / PySpark -->
+  <!--  - AWS / GCP -->
+  - Tableau <!-- and Google Data Studio -->
   - MySQL
   - MongoDB
   - Docker 
-  - Unit Testing and A/B Testing
+  - Unit Testing <!-- and A/B Testing -->
   
  ---
  <p align = "center">
