@@ -27,29 +27,9 @@
 
 ### Hi there 👋  I'm Manuel Suárez 
 <p align="left"> 🔶 B.S. Computer Science</p>
-<i align="left"> Passionate to the technologies focused in branch of Business Intelligence 📊   | Data Science 💻 </i>
-
----
+<i align="left"> Passionate to the technologies focused in branch of Fullstack developer</i>
 
 
-- ✅  My Stack ... 
-  - Python / R 
-  - Supervised and Unsupervised learning 
-  - Time Series Analysis
-  <!--- TensorFlow and Keras -->
-  - XGBoost
-  - spaCy
-  - Web Scraping (Selenium and bs4 ) 
-  - API REST with Fast API and Flask
-  <!--  - Mlflow -->
-  <!--  - Apache Airflow / PySpark -->
-  <!--  - AWS / GCP -->
-  - Tableau <!-- and Google Data Studio -->
-  - MySQL
-  - MongoDB
-  - Docker 
-  - Unit Testing <!-- and A/B Testing -->
-  
  ---
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
