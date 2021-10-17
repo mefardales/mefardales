@@ -27,7 +27,7 @@
 
 ### Hi there 👋  I'm Manuel Suárez 
 <p align="left"> 🔶 B.S. Computer Science</p>
-<i align="left">Fullstack developer</i>
+<i align="left">Backend developer</i>
 
 
  ---
