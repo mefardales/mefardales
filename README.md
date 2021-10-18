@@ -29,7 +29,6 @@
 <p align="left"> 🔶 B.S. Computer Science</p>
 <i align="left">Backend developer</i>
 
-
  ---
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
