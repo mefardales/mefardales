@@ -25,9 +25,8 @@
   
 </p>
 
-### Hi there 👋  I'm Manuel Suárez 
-<p align="left"> 🔶 B.S. Computer Science</p>
-<i align="left">Backend developer</i>
+### Hi there 👋  I'm Manuel Suarez 
+<i align="left">Fullstack developer</i>
 
  ---
  <p align = "center">
