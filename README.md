@@ -12,9 +12,6 @@
   <a href= "https://twitter.com/ManuelS24832521">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a>
-  <a href= "https://dev.to/mefardales">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
   
 </p>
 
