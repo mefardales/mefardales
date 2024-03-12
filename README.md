@@ -17,11 +17,6 @@
 
 ---
 
-<p align="left"> 
-  <img src="https://img.icons8.com/cute-clipart/64/000000/machine-learning.png" align="left" width=95/>
-  
-</p>
-
 ### Hi there 👋  I'm Manuel Suarez 
 <i align="left">Fullstack developer</i>
 
