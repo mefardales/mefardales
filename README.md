@@ -2,8 +2,8 @@
 ### Hi there 👋  I'm Manuel Suarez 
 ---
 <p align="center">
-<i>"Welcome to the repository where coffee turns into code! 🚀☕ Here you'll find the creations of a Software Engineer with more than 4 years of experience in full-stack web development. </i>
-<i>Oh, and remember: the best bug is the one fixed with a good cup of coffee. 😉"</i>
+<i>Welcome to the repository where coffee turns into code! 🚀☕ Here you'll find the creations of a Software Engineer with more than 4 years of experience in full-stack web development. </i>
+<i>Oh, and remember: the best bug is the one fixed with a good cup of coffee. 😉</i>
 
 <p align="center">
   <a href= "https://www.linkedin.com/in/mefardales/">
