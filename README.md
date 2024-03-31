@@ -10,6 +10,8 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 </p>
+ 
+ 
  ---
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
