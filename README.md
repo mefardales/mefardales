@@ -1,7 +1,7 @@
 <!-- Social Section -->
-### Hi there 👋 I'm Manuel Suarez 
+### Hi there 👋 
 ---
-I am passionate software developer
+I'm `Manuel Suarez` an passionate software developer
 
 *Technologies I mostly use:*
 <div>
