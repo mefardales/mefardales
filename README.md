@@ -1,16 +1,24 @@
 <!-- Social Section -->
 ### Hi there 👋 I'm Manuel Suarez 
 ---
-<p align="center">
-<i>Welcome to the repository where coffee turns into code! 🚀☕ Here you'll find the creations of a Software Engineer with more than 4 years of experience in full-stack web development. </i>
-<i>Oh, and remember: the best bug is the one fixed with a good cup of coffee.😉</i>
+I am passionate software developer
 
-<p align="center">
+*Technologies I mostly use:*
+<div>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="Python" alt="Python" width="40" height="40" />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg title="Django" alt="Django" width="40" height="40" />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg title="NodeJS" alt="NodeJS" width="40" height="40" />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg title="MongoDB" alt="MongoDB" width="40" height="40" />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
+  
+</div>
+ <p></p>
+How to reach me:
+<p></p>
+<div id="badges">
   <a href= "https://www.linkedin.com/in/mefardales/">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
- 
  
  ---
  <p align = "center">
