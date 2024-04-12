@@ -12,7 +12,11 @@ I'm `Manuel Suarez` an passionate software developer
   <img src=https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
   
 </div>
- <p></p>
+
+## Blog posts 🧑‍💻
+<!-- BLOG-POST-LIST:START -->
+- [Django Configuration: Managing Multiple Settings for Scalable Projects](https://medium.com/towardsdev/django-configuration-managing-multiple-settings-for-scalable-projects-0afd46cb6a6b)
+<!-- BLOG-POST-LIST:END -->
 How to reach me:
 <p></p>
 <div id="badges">
