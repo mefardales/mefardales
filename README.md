@@ -19,16 +19,8 @@ I'm `Manuel Suarez` an passionate software developer
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me 📨
-| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mefardales/)[![Medium](https://img.shields.io/badge/-Medium-00ab6c?style=flat&labelColor=00ab6c&logo=Medium&logoColor=white)](https://mefardales.medium.com/)|
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mefardales/) [![Medium](https://img.shields.io/badge/-Medium-00ab6c?style=flat&labelColor=00ab6c&logo=Medium&logoColor=white)](https://mefardales.medium.com/)|
 |:------:|
-
-How to reach me:
-<p></p>
-<div id="badges">
-  <a href= "https://www.linkedin.com/in/mefardales/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
  ---
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
