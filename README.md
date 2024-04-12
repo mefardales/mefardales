@@ -17,6 +17,11 @@ I'm `Manuel Suarez` an passionate software developer
 <!-- BLOG-POST-LIST:START -->
 - [Django Configuration: Managing Multiple Settings for Scalable Projects](https://medium.com/towardsdev/django-configuration-managing-multiple-settings-for-scalable-projects-0afd46cb6a6b)
 <!-- BLOG-POST-LIST:END -->
+
+## Connect with me 📨
+| [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mefardales/)[![Medium](https://img.shields.io/badge/-Medium-00ab6c?style=flat&labelColor=00ab6c&logo=Medium&logoColor=white)](https://mefardales.medium.com/)|
+|:------:|
+
 How to reach me:
 <p></p>
 <div id="badges">
