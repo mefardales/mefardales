@@ -21,8 +21,3 @@ I'm `Manuel Suarez` an passionate software developer
 ## Connect with me 📨
 | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mefardales/) [![Medium](https://img.shields.io/badge/-Medium-00ab6c?style=flat&labelColor=00ab6c&logo=Medium&logoColor=white)](https://mefardales.medium.com/) [![Blog](https://img.shields.io/badge/-Blog-738A94?style=flat&labelColor=738A94&logo=Ghost&logoColor=white)](https://bento.me/msf)|
 |:------:|
- ---
- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mefardales&show_icons=true&theme=bear" width = 400>
-  
-</p>
